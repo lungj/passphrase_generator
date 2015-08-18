@@ -148,4 +148,4 @@ NOUNS = words_of_type('NOUN', 6)
 ADJECTIVES = words_of_type('ADJ')
 ADVERBS = words_of_type('ADV')
 TERMINAL_PUNCTUATION = ['.', '...', '!', '?']
-SYMBOLS = list('~!@#$%^&*()_+-=[]\{}|;:<>/') + ['']
+SYMBOLS = list('~!@#$%^&*()_+-=[]\\{}|;:<>/')
