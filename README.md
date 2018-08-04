@@ -16,3 +16,8 @@ Example passphrases include
  * `396 eXTRAORDINARY [Chic#kens Presumably PRESCRIBE sINISTER vAPORS!`
  * `821 pol{ite CURSES iRRITABLY bin alternative DOO[RS?`
  * `72 HONEST Children Quietly fERTILIZE cONTRA!CTUAL STAN$DARDS...`
+
+If you decide that the passphrase as-generated is too hard to remember, you still get 78 bits of entropy if you just keep the number and words like this:
+ * `396 extraordinary chickens presumably prescribe sinister vapors`
+ * `821 polite curses irritably bin alternative doors`
+ * `72 honest children quietly fertilize contractual standards`
